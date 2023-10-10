@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\obj\Debug\cliente2Form.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\obj\Debug\cliente2Form.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\obj\Debug\cliente2Form.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
