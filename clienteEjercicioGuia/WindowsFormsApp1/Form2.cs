@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
             //Creamos un IPEndPoint con el ip del servidor y puerto del servidor 
             //al que deseamos conectarnos
             IPAddress direc = IPAddress.Parse("192.168.56.102");
-            IPEndPoint ipep = new IPEndPoint(direc, 9101);
+            IPEndPoint ipep = new IPEndPoint(direc, 9100);
 
 
             //Creamos el socket 
@@ -64,7 +64,7 @@ namespace WindowsFormsApp1
             if (Celsius.Checked)
             {
                 //double grados = Convert.ToDouble(numero);
-                string mensaje = "1/" + numero.Text;
+                string mensaje = "5/" + numero.Text;
                 
                 // Enviamos al servidor el numero tecleado
                 byte[] msg = System.Text.Encoding.ASCII.GetBytes(mensaje);
@@ -78,7 +78,7 @@ namespace WindowsFormsApp1
             }
             else if (Farenheit.Checked)
             {
-                string mensaje = "2/" + numero.Text;
+                string mensaje = "4/" + numero.Text;
              
                 
                 // Enviamos al servidor el numero tecleado
@@ -92,6 +92,21 @@ namespace WindowsFormsApp1
                 MessageBox.Show("La conversión de Farenheit a Celsius = " + mensaje);
 
             }
+        }
+
+        private void Cuantos_servicios_Click(object sender, EventArgs e)
+        {
+            string mensaje = "6/";
+
+            // Enviamos al servidor el numero tecleado
+            byte[] msg = System.Text.Encoding.ASCII.GetBytes(mensaje);
+            server.Send(msg);
+
+            //Recibimos la respuesta del servidor
+            byte[] msg2 = new byte[80];
+            server.Receive(msg2);
+            mensaje = Encoding.ASCII.GetString(msg2).Split('\0')[0];
+            Contlbl.Text = mensaje;
         }
     }
 }

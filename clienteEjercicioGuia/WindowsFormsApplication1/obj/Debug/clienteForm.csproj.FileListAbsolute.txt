@@ -106,4 +106,3 @@ C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemas
 C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
-C:\Users\Usuario\OneDrive\Escritorio\SO\Guia_miguel_valero\EjercicioGuiaSistemasOperativos\MiEjercicioGuia\clienteEjercicioGuia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources

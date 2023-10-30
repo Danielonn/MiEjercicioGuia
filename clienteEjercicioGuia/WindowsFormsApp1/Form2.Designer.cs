@@ -37,6 +37,8 @@ namespace WindowsFormsApp1
             this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.Conectar = new System.Windows.Forms.Button();
+            this.Cuantos_servicios = new System.Windows.Forms.Button();
+            this.Contlbl = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -126,11 +128,33 @@ namespace WindowsFormsApp1
             this.Conectar.UseVisualStyleBackColor = true;
             this.Conectar.Click += new System.EventHandler(this.Conectar_Click);
             // 
+            // Cuantos_servicios
+            // 
+            this.Cuantos_servicios.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Cuantos_servicios.Location = new System.Drawing.Point(521, 101);
+            this.Cuantos_servicios.Name = "Cuantos_servicios";
+            this.Cuantos_servicios.Size = new System.Drawing.Size(153, 59);
+            this.Cuantos_servicios.TabIndex = 17;
+            this.Cuantos_servicios.Text = "¿Cuántos servicios?";
+            this.Cuantos_servicios.UseVisualStyleBackColor = true;
+            this.Cuantos_servicios.Click += new System.EventHandler(this.Cuantos_servicios_Click);
+            // 
+            // Contlbl
+            // 
+            this.Contlbl.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Contlbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Contlbl.Location = new System.Drawing.Point(521, 201);
+            this.Contlbl.Name = "Contlbl";
+            this.Contlbl.Size = new System.Drawing.Size(153, 54);
+            this.Contlbl.TabIndex = 18;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Contlbl);
+            this.Controls.Add(this.Cuantos_servicios);
             this.Controls.Add(this.Desconectar);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.Conectar);
@@ -152,5 +176,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button Conectar;
+        private System.Windows.Forms.Button Cuantos_servicios;
+        private System.Windows.Forms.Label Contlbl;
     }
 }
